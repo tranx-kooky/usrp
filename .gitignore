@@ -1,4 +1,6 @@
 uhd*
 gnuradio*
+tmp*
+*.py
 __pycache__*
 
